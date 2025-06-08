@@ -26,7 +26,7 @@ Each dashboard provides a detailed view of operations from multiple angles, help
 
 ### 1. Sales Dashboard
 
-![Screenshot 2025-06-08 224047](https://github.com/user-attachments/assets/59bb184f-5857-41b3-8712-1a816c1f84b9)
+![Sales_Dashboard](https://github.com/user-attachments/assets/786a1094-e6f9-453e-b20d-d29115e893cb)
 
 
 **Purpose**: Analyze product performance, revenue trends, regional distribution, and cancellation rates to support sales planning and forecasting.
