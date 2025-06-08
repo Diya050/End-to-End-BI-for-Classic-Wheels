@@ -91,13 +91,3 @@ This project demonstrates the ability to:
 - Translate business goals into data models and visualizations
 - Communicate insights clearly to both technical and non-technical stakeholders
 
----
-
-## Project Structure
-
-- `sales-dashboard/`: Sales analysis visuals and tooltip drillthroughs
-- `customer-dashboard/`: Customer segmentation and sales by region
-- `employee-dashboard/`: Employee performance and office contributions
-- `.pbix` files: Available upon request or pending upload
-
-
