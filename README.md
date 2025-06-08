@@ -1,6 +1,16 @@
-# Power BI Project: Product-Based Company Data Analysis
+# Power BI Project: End-To-End BI For Classic Wheels
 
-This project demonstrates a complete data analysis workflow using Power BI to derive strategic insights for a product-based company. It includes three dashboards focused on sales performance, customer behavior, and employee productivity.
+This Power BI project analyzes the sales, customer, and employee data of a vintage automobile company—Classic Wheels Inc.—to uncover actionable business insights and support data-driven decisions across multiple departments.
+
+The project is divided into three interactive dashboards:
+
+- Sales Dashboard
+
+- Customer Dashboard
+
+- Employee Dashboard
+
+Each dashboard provides a detailed view of operations from multiple angles, helping stakeholders monitor performance, identify bottlenecks, and implement targeted strategies.
 
 ---
 
